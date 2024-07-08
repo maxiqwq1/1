@@ -1,0 +1,7 @@
+.cajita{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10%;
+    border-color: black;
+    }
